@@ -1,4 +1,4 @@
-import{p as r}from"./project.bc1c929d.js";import{e as c,o as a,f as l,w as h,g as t,c as s,a as e}from"./index.6c3d0f90.js";const m=e("h3",null,"SVG Animation",-1),p=e("p",null,"To randomly animate the polygons in the SVG, I used javascript to assign a number to a CSS variable, then accessed the variable for the animation-delay property.",-1),d=e("h4",null,"Sass",-1),g=e("code",{class:"scss"},null,-1),f=[g],u=e("h4",null,"jQuery",-1),_=e("code",{class:"javascript"},null,-1),y=[_],T={__name:"Tifb",setup(v){const o=`
+import{p as r}from"./project.7dc9534e.js";import{e as c,o as a,f as l,w as h,g as t,c as s,a as e}from"./index.2c9eb7f3.js";const m=e("h3",null,"SVG Animation",-1),p=e("p",null,"To randomly animate the polygons in the SVG, I used javascript to assign a number to a CSS variable, then accessed the variable for the animation-delay property.",-1),d=e("h4",null,"Sass",-1),g=e("code",{class:"scss"},null,-1),f=[g],u=e("h4",null,"jQuery",-1),_=e("code",{class:"javascript"},null,-1),y=[_],T={__name:"Tifb",setup(v){const o=`
         @keyframes fade100 {
             0% { opacity: 0; }
             100% { opacity: 1; }
