@@ -1,4 +1,4 @@
-import{p as t}from"./project.89698a49.js";import{o as a,f as e}from"./index.237bd6b9.js";const h={__name:"Local",setup(s){return(o,c)=>(a(),e(t,{title:"The LOCAL Credit Union",summary:`The default comparison chart on FIRSTBranch sites was the same for clients whether they had purchased the Kasasa suite of checking products or not.
+import{p as t}from"./project.7537a623.js";import{o as a,f as e}from"./index.53b52483.js";const h={__name:"Local",setup(s){return(o,c)=>(a(),e(t,{title:"The LOCAL Credit Union",summary:`The default comparison chart on FIRSTBranch sites was the same for clients whether they had purchased the Kasasa suite of checking products or not.
                 I saw an opportunity to add value for clients who had purchased Kasasa's accounts.<br/>
                 <br/>By creating a new chart style that
                 leveraged existing Bootstrap classes and components and using the same content, the result was a 

@@ -1,4 +1,4 @@
-import{p as r}from"./project.89698a49.js";import{e as n,o as t,f as s,w as i,g as c,c as l,a as e}from"./index.237bd6b9.js";const h=e("h3",null,"SVG Animation",-1),g=e("h4",null,"Javascript",-1),d=e("code",{class:"javascript"},null,-1),m=[d],v={__name:"Inmo",setup(p){const o=`
+import{p as r}from"./project.7537a623.js";import{e as n,o as t,f as s,w as i,g as c,c as l,a as e}from"./index.53b52483.js";const h=e("h3",null,"SVG Animation",-1),g=e("h4",null,"Javascript",-1),d=e("code",{class:"javascript"},null,-1),m=[d],v={__name:"Inmo",setup(p){const o=`
     // only trigger JS animations for users without prefers reduced motion
     var notReduceMotion = window.matchMedia('(prefers-reduced-motion: no-preference)');
     if (!notReduceMotion || notReduceMotion.matches) {
