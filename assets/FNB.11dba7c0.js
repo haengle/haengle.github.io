@@ -1,4 +1,4 @@
-import{p as n}from"./project.7537a623.js";import{e as s,o as e,f as a,w as r,g as l,c as _,a as t}from"./index.53b52483.js";const h=t("h4",null,"Javascript",-1),c=t("code",{class:"javascript"},null,-1),m=[c],v={__name:"FNB",setup(w){const i=`
+import{p as n}from"./project.8ba39062.js";import{e as s,o as e,f as a,w as r,g as l,c as _,a as t}from"./index.224c50c4.js";const h=t("h4",null,"Javascript",-1),c=t("code",{class:"javascript"},null,-1),m=[c],v={__name:"FNB",setup(w){const i=`
     var el = $f('.slideContent');
 el.on('load', hintBrowser);
 el.on('animationEnd', removeHint);
