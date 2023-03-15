@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.db53ae8f.css",
-    "main.js": "/static/js/main.f825f4b1.js",
+    "main.css": "/static/css/main.f349887a.css",
+    "main.js": "/static/js/main.bae2737c.js",
     "static/media/inmo.jpg": "/static/media/inmo.a321bf9bc7dd61ada8c0.jpg",
     "static/media/atx.webp": "/static/media/atx.a8b24dfa249add8f090a.webp",
     "static/media/atx.jpg": "/static/media/atx.37e07c0addf93e5b4b27.jpg",
@@ -10,11 +10,11 @@
     "static/media/local-chart.png": "/static/media/local-chart.29bda236411106f86d1c.png",
     "static/media/tifb.png": "/static/media/tifb.a9dd77bec2c4619a6cd9.png",
     "index.html": "/index.html",
-    "main.db53ae8f.css.map": "/static/css/main.db53ae8f.css.map",
-    "main.f825f4b1.js.map": "/static/js/main.f825f4b1.js.map"
+    "main.f349887a.css.map": "/static/css/main.f349887a.css.map",
+    "main.bae2737c.js.map": "/static/js/main.bae2737c.js.map"
   },
   "entrypoints": [
-    "static/css/main.db53ae8f.css",
-    "static/js/main.f825f4b1.js"
+    "static/css/main.f349887a.css",
+    "static/js/main.bae2737c.js"
   ]
 }
